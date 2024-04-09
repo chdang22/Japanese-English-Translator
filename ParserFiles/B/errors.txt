@@ -1,0 +1,16 @@
+SYNTAX ERROR: expected SUBJECT but found de.
+SYNTAX ERROR: expected SUBJECT but found de.
+SYNTAX ERROR: expected SUBJECT but found de.
+SYNTAX ERROR: expected SUBJECT but found de.
+SYNTAX ERROR: expected SUBJECT but found de.
+SYNTAX ERROR: expected PERIOD but found ne.
+SYNTAX ERROR: expected SUBJECT but found de.
+SYNTAX ERROR: expected PERIOD but found ne.
+SYNTAX ERROR: expected PERIOD but found ne.
+SYNTAX ERROR: expected PERIOD but found ne.
+SYNTAX ERROR: expected PERIOD but found ne.
+SYNTAX ERROR: expected SUBJECT but found de.
+SYNTAX ERROR: expected PERIOD but found ne.
+Skipping token.
+SYNTAX ERROR: expected SUBJECT but found de.
+Replacing token with SUBJECT and wa.

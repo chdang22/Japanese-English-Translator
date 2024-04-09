@@ -1,0 +1,17 @@
+SYNTAX ERROR: unexpected  found in noun.
+SYNTAX ERROR: expected PERIOD but found ne.
+Do you want to (s)kip this token or (r)eplace it? (Enter 's' or 'r'): s
+Skipping token.
+SYNTAX ERROR: expected SUBJECT but found de.
+Do you want to (s)kip this token or (r)eplace it? (Enter 's' or 'r'): r
+Replacing token with SUBJECT and wa.
+SYNTAX ERROR: expected PERIOD but found ne.
+Do you want to (s)kip this token or (r)eplace it? (Enter 's' or 'r'): s
+Skipping token.
+SYNTAX ERROR: expected SUBJECT but found de.
+Do you want to (s)kip this token or (r)eplace it? (Enter 's' or 'r'): r
+Replacing token with SUBJECT and wa.
+SYNTAX ERROR: unexpected mashita found in <afterNoun>.
+SYNTAX ERROR: expected PERIOD but found ne.
+SYNTAX ERROR: expected SUBJECT but found de.
+SYNTAX ERROR: unexpected mashita found in <afterNoun>.

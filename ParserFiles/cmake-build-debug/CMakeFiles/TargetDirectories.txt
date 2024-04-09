@@ -1,0 +1,3 @@
+C:/Users/caroh/OneDrive/Documents/GitHub/Japanese-English-Translator/ParserFiles/cmake-build-debug/CMakeFiles/translator.exe.dir
+C:/Users/caroh/OneDrive/Documents/GitHub/Japanese-English-Translator/ParserFiles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/caroh/OneDrive/Documents/GitHub/Japanese-English-Translator/ParserFiles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

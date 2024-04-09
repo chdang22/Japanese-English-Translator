@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Japanese_English_Translator.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\Japanese_English_Translator.dir/objects.a @CMakeFiles\Japanese_English_Translator.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Japanese_English_Translator.dir/objects.a -Wl,--no-whole-archive -o Japanese_English_Translator.exe -Wl,--out-implib,libJapanese_English_Translator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Japanese_English_Translator.dir\linkLibs.rsp

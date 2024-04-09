@@ -1,0 +1,47 @@
+
+Fill this out and submitIt_LK this file with the executable.
+
+Group#:3
+
+Must have divided the work as specified.
+If the member did not fully contribute to the assigned part, do not list his/her name!
+
+1.State who did what by indicating: 
+  Member A tasks (syntax error functions) - who: Alex Shahtout
+  Member B tasks (match and next_token)- who: Farris Bader and Kerry Wilcher
+  Member C tasks (main()) who: Caroline Dang
+  Who wrote which parser functions? 
+  functions             who
+  ----------------      ----------
+    Verb                Farris Bader
+    match               Farris Bader
+    next_token          Kerry Wilcher
+    tense               Kerry Wilcher
+    be                  Kerry Wilcher
+    story               Caroline Dang
+    afterObject         Caroline Dang
+    afterNoun           Caroline Dang
+    afterSubject        Caroline Dang
+    s                   Caroline Dang
+    noun                Alex Shahtout
+    syntaxerror1        Alex Shahtout
+    syntaxerror2        Alex Shahtout
+
+2.  Who came to the meeting to test the program together?
+all members
+3.  You have included all the required comments? 
+    (Grammer: and Done by: )
+yes
+4.  The parser produced correct output for 
+    all 6 test cases?
+    yes
+
+5.  What extra credit feature did you include?
+Toggle tracing statements
+Skip or replace in syntax error1
+    If it is error correction, did you make sure errors.txt
+    got produced? yes
+    [ You may still do EC later ]
+        
+checkIt_LK in 24 hours and immediately correct and resubmit.     
+
